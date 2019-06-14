@@ -8,6 +8,8 @@ class Student
     @grade = grade
     
   end
+  
+  def self.create_tabl
 
 
 end
